@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 1 – Parallel for loop", "Exercise 1 – Parallel for loop\Exercise 1 – Parallel for loop.csproj", "{79ADD19A-459A-4313-A90F-58F4E9DADBD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 5 – Asynchronous computation", "Exercise 5 – Asynchronous computation\Exercise 5 – Asynchronous computation.csproj", "{780BC59A-8968-475F-BA08-FCEAD77D8BB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79ADD19A-459A-4313-A90F-58F4E9DADBD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79ADD19A-459A-4313-A90F-58F4E9DADBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79ADD19A-459A-4313-A90F-58F4E9DADBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79ADD19A-459A-4313-A90F-58F4E9DADBD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{780BC59A-8968-475F-BA08-FCEAD77D8BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780BC59A-8968-475F-BA08-FCEAD77D8BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780BC59A-8968-475F-BA08-FCEAD77D8BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780BC59A-8968-475F-BA08-FCEAD77D8BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7255BDA8-5027-4D0F-A5E6-5570F8558144}
+	EndGlobalSection
+EndGlobal
